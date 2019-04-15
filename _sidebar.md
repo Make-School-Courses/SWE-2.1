@@ -1,0 +1,8 @@
+- [Syllabus](README.md)
+- [Weekly Plan](Assignments/weekly-plan.md)
+- [Reflection Form](https://forms.gle/9j6HYB8Gpt75a1Uz5)
+- [Written Update 1](ADD-FORM-HERE)
+- [Written Update 2](ADD-FORM-HERE)
+- [Written Update 3](ADD-FORM-HERE)
+- [Written Update 4](ADD-FORM-HERE)
+- [Written Update 5](ADD-FORM-HERE)
