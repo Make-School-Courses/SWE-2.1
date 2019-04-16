@@ -70,7 +70,7 @@ Schedule a monthly check-in call with your Make School advisor.
 
 **DUE DATE: before your internship/job begins. Submit your reflection using [this form](https://forms.gle/9j6HYB8Gpt75a1Uz5)**
 
-Write a 500+ word summary about how you will work to succeed in the following:
+Write a 300+ word summary about how you will work to succeed in the following:
 
 1. What challenges do you expect to face when joining the company?
 1. What are 2-3 competencies that you hope to develop on the job?
@@ -119,7 +119,7 @@ This was one of your first experiences with industry, and you’re going to want
 
 **NOTE:** Blog post does not need to be published if your content contains sensitive or confidential information
 
-Write a 500+ word blog post on how to successfully intern at a company:
+Write a 300+ word blog post on how to successfully intern at a company:
 
 1. What tips would you give your past self in starting this role?
 1. What does it take to successfully onboard to a company? Share some specific examples.
