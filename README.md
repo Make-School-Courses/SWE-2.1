@@ -46,7 +46,7 @@ By the end of this internship, I will be able to …
 
 | Internship/Job Phase |          Timeframe          |      Assignments    |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  **Pre-Internship/Job** |  The month before your internship/job  | Schedule a Monthly Check-In Call With Your Make School Advisor. |
+|  **Pre-Internship/Job** |  2 weeks before your internship/job  | Schedule a Monthly Check-In Call With Your Make School Advisor. |
 |     |      |   Reflection |
 |     |      |   Create Weekly Plan |
 |  **During Internship/Job** |  1st Week  | Written Reflection Week 1 |
@@ -60,15 +60,17 @@ By the end of this internship, I will be able to …
 
 ## Assignments
 
+**IMPORTANT DUE DATE NOTE:** For the assignments due 2 weeks before your internship/job begins (Schedule Monthly Checkin, Reflectoin, Create Weekly Plan), if you obtain your internship/job with less than 2 weeks before the start date, then those three items are due before the internship begins
+
 ### Schedule Monthly Checkin
 
-**DUE DATE: 1 month before your internship/job begins**
+**DUE DATE: 2 weeks before your internship/job begins**
 
 Schedule a monthly check-in call with your Make School advisor.
 
 ### Reflection
 
-**DUE DATE: 1 month before your internship/job begins. Submit your reflection using [this form](https://forms.gle/9j6HYB8Gpt75a1Uz5)**
+**DUE DATE: 2 weeks before your internship/job begins. Submit your reflection using [this form](https://forms.gle/9j6HYB8Gpt75a1Uz5)**
 
 Write a 300+ word summary about how you will work to succeed in the following:
 
@@ -79,7 +81,7 @@ Write a 300+ word summary about how you will work to succeed in the following:
 
 ### Create Weekly Plan
 
-**DUE DATE: 1 month before your internship/job begins**
+**DUE DATE: 2 weeks before your internship/job begins**
 
 [Copy and fill out your plan](Assignments/weekly-plan.md), and then email it to your advisor for review
 
