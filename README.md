@@ -2,9 +2,9 @@
 
 ## Course Description
 
-The Supervised Work Experience (SWE) is a paid or unpaid internship or full time work that happens either between or at the end of a student’s years in the Make School program. During Make School’s integrated program students master the theory and practices necessary to succeed in making contributions as software engineers to the world of technology. The Make School program also prepares students to search for, apply, interview, and negotiate a job offer. 
+The Supervised Work Experience (SWE) is a paid or unpaid internship or full time work that happens either between or at the end of a student’s years in the Make School program. During Make School’s integrated program, students master the theory and practices necessary to succeed in making contributions as software engineers to the world of technology. The Make School program also prepares students to search for, apply, interview, and negotiate a job offer. 
 
-Students may begin applying to SWE positions once they have secured a full-time internship or full time job at will last at least 12 weeks.
+Students may begin register for a SWE  once they have secured a full-time internship or full time job that lasts at least 12 weeks.
 
 Students work towards their SWE with their coach, and once accepted into their position, continue to work with their Make School advisor (either their coach a College instructor). Before the SWE begins, students and their advisor develop a personalized learning plan for the student to follow as they begin working. Students are in constant contact with their advisor, and every two weeks, they are required to send a written update on their learning and learning plan. Students are managed and supervised at their workplace according to the policies of their employer. 
 
@@ -68,7 +68,7 @@ Schedule a monthly check-in call with your Make School advisor.
 
 ### Reflection
 
-**DUE DATE: 1 month before your internship/job. Submit your reflection using [this form](https://forms.gle/9j6HYB8Gpt75a1Uz5)**
+**DUE DATE: before your internship/job begins. Submit your reflection using [this form](https://forms.gle/9j6HYB8Gpt75a1Uz5)**
 
 Write a 500+ word summary about how you will work to succeed in the following:
 
@@ -87,7 +87,7 @@ Write a 500+ word summary about how you will work to succeed in the following:
 
 **DUE DATES: Twice a month for the first two months of your internship/job, and once during the third month**
 
-You will provide a reflection of your work experience to your advisor. Answer the following questions in the appropriate submission form:
+You will provide a reflection of your work experience to your advisor. The purpose is to accelerate your learning and ability to adapt in your role. Answer the following questions in the appropriate submission form:
 
 1. What have you accomplished this week?
 1. What challenges did you run into?
