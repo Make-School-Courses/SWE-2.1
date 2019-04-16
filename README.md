@@ -4,7 +4,7 @@
 
 The Supervised Work Experience (SWE) is a paid or unpaid internship or full time work that happens either between or at the end of a student’s years in the Make School program. During Make School’s integrated program, students master the theory and practices necessary to succeed in making contributions as software engineers to the world of technology. The Make School program also prepares students to search for, apply, interview, and negotiate a job offer. 
 
-Students may begin register for a SWE  once they have secured a full-time internship or full time job that lasts at least 12 weeks.
+Students may begin registering for a SWE  once they have secured a full-time internship or full time job that lasts at least 12 weeks.
 
 Students work towards their SWE with their coach, and once accepted into their position, continue to work with their Make School advisor (either their coach a College instructor). Before the SWE begins, students and their advisor develop a personalized learning plan for the student to follow as they begin working. Students are in constant contact with their advisor, and every two weeks, they are required to send a written update on their learning and learning plan. Students are managed and supervised at their workplace according to the policies of their employer. 
 
@@ -49,11 +49,11 @@ By the end of this internship, I will be able to …
 |  **Pre-Internship/Job** |  The month before your internship/job  | Schedule a Monthly Check-In Call With Your Make School Advisor. |
 |     |      |   Reflection |
 |     |      |   Create Weekly Plan |
-|  **During Internship/Job** |  1st half of first month  | Written Update 1 |
-|  |  2nd half of first month                        | Written Update 2 |
-|  |  1st half of second month                        | Written Update 3 |
-|  |  2nd half of second month                        | Written Update 4 |
-|  |  1st half of third month                        | Written Update 5 |
+|  **During Internship/Job** |  1st Week  | Written Reflection Week 1 |
+|  |  3rd week                        | Written Reflection Week 3 |
+|  |  5th week                        | Written Reflection Week 5 |
+|  |  7th week                        | Written Reflection Week 7 |
+|  |  9th week                        | Written Reflection Week 9 |
 |  **Post-Internship/Job** |  The last day of the internship/job    | Closing Items |
 |   |  1 week after Internship/Job ends    | Final Reflection Blog Post |
 |   |     | Resume & LinkedIn update |
@@ -68,7 +68,7 @@ Schedule a monthly check-in call with your Make School advisor.
 
 ### Reflection
 
-**DUE DATE: before your internship/job begins. Submit your reflection using [this form](https://forms.gle/9j6HYB8Gpt75a1Uz5)**
+**DUE DATE: 1 month before your internship/job begins. Submit your reflection using [this form](https://forms.gle/9j6HYB8Gpt75a1Uz5)**
 
 Write a 300+ word summary about how you will work to succeed in the following:
 
@@ -83,7 +83,7 @@ Write a 300+ word summary about how you will work to succeed in the following:
 
 [Copy and fill out your plan](Assignments/weekly-plan.md), and then email it to your advisor for review
 
-### Written Updates (1-5)
+### Written Reflections
 
 **DUE DATES: Twice a month for the first two months of your internship/job, and once during the third month**
 
@@ -97,11 +97,11 @@ You will provide a reflection of your work experience to your advisor. The purpo
 
 **SUBMISSION FORMS**
 
-1. [Written Update 1](ADD-FORM-HERE)
-1. [Written Update 2](ADD-FORM-HERE)
-1. [Written Update 3](ADD-FORM-HERE)
-1. [Written Update 4](ADD-FORM-HERE)
-1. [Written Update 5](ADD-FORM-HERE)
+1. [Written Reflection Week 1](ADD-FORM-HERE)
+1. [Written Reflection Week 3](ADD-FORM-HERE)
+1. [Written Reflection Week 5](ADD-FORM-HERE)
+1. [Written Reflection Week 7](ADD-FORM-HERE)
+1. [Written Reflection Week 9](ADD-FORM-HERE)
 
 ### Closing Items
 
