@@ -30,7 +30,6 @@ During Week 4, I will aim to accomplish...
 
 1. Goal 1
 2. Goal 2
-3. Goal 3
 
 ## Week 5
 
