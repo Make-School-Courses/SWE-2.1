@@ -84,6 +84,8 @@ Write a 300+ word summary about how you will work to succeed in the following:
 
 [Copy and fill out your plan](Assignments/weekly-plan.md), and then email it to Jeff (SWE Instructor) and your coach for review
 
+### Resume & LinkedIn update
+
 **DUE DATE: 1st week of your internship**
 
 Update your Linkedin & Resume on the Make School portfolio page with your new work experience.
@@ -130,8 +132,6 @@ Write a 300+ word blog post on how to successfully intern at a company:
 1. What does it take to successfully onboard to a company? Share some specific examples.
 1. What did you learn that you didn’t expect to on this job?
 1. Has this experience changed what you want to do in your career?
-
-### Resume & LinkedIn update
 
 ## Evaluation
 In order to pass this course, students must successfully complete:
