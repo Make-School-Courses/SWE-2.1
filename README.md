@@ -6,7 +6,7 @@ The Supervised Work Experience (SWE) is a paid or unpaid internship or full time
 
 Students may begin registering for a SWE  once they have secured a full-time internship or full time job that lasts at least 12 weeks.
 
-Students work towards their SWE with their coach, and once accepted into their position, continue to work with their Make School advisor (either their coach a College instructor). Before the SWE begins, students and their advisor develop a personalized learning plan for the student to follow as they begin working. Students are in constant contact with their advisor, and every two weeks, they are required to send a written update on their learning and learning plan. Students are managed and supervised at their workplace according to the policies of their employer. 
+Students work towards their SWE with their Make School coach, and once accepted into their position, continue to work with their coach (the same coach assigned to the academic school year). Before the SWE begins, students and their coach develop a personalized learning plan for the student to follow as they begin working. Students are in constant contact with their coach, and every two weeks, they are required to send a written update on their learning and learning plan. Students are managed and supervised at their workplace according to the policies of their employer. 
 
 Students must fill out the assignments listed in this syllabus, and execute their plan in order to get 10 college credit for this SWE.
 
@@ -60,17 +60,17 @@ By the end of this internship, I will be able to …
 
 ## Assignments
 
-**IMPORTANT DUE DATE NOTE:** For the assignments due 2 weeks before your internship/job begins (Schedule Monthly Checkin, Reflectoin, Create Weekly Plan), if you obtain your internship/job with less than 2 weeks before the start date, then those three items are due before the internship begins
+**IMPORTANT DUE DATE NOTE:** For the assignments due 1 week before your internship/job begins (Schedule Monthly Checkin, Reflectoin, Create Weekly Plan), if you obtain your internship/job with less than 1 weeks before the start date, then those three items are due before the internship begins
 
 ### Schedule Monthly Checkin
 
-**DUE DATE: 2 weeks before your internship/job begins**
+**DUE DATE: 1 week before your internship/job begins**
 
-Schedule a monthly check-in call with your Make School advisor.
+Schedule a monthly check-in call with your Make School coach
 
 ### Reflection
 
-**DUE DATE: 2 weeks before your internship/job begins. Submit your reflection using [this form](https://forms.gle/9j6HYB8Gpt75a1Uz5)**
+**DUE DATE: 1 week before your internship/job begins. Submit your reflection using [this form](https://forms.gle/9j6HYB8Gpt75a1Uz5)**
 
 Write a 300+ word summary about how you will work to succeed in the following:
 
@@ -81,19 +81,23 @@ Write a 300+ word summary about how you will work to succeed in the following:
 
 ### Create Weekly Plan
 
-**DUE DATE: 2 weeks before your internship/job begins**
+**DUE DATE: 1 weeks before your internship/job begins**
 
-[Copy and fill out your plan](Assignments/weekly-plan.md), and then email it to your advisor for review
+[Copy and fill out your plan](Assignments/weekly-plan.md), and then email it to Jeff (SWE Instructor) for review
+
+**DUE DATE: 1st week of your internship**
+
+Update your Linkedin & Resume on the Make School portfolio page with your new work experience.
 
 ### Written Reflections
 
 **DUE DATES: Twice a month for the first two months of your internship/job, and once during the third month**
 
-You will provide a reflection of your work experience to your advisor. The purpose is to accelerate your learning and ability to adapt in your role. Answer the following questions in the appropriate submission form:
+You will provide a reflection of your work experience to your coach. The purpose is to accelerate your learning and ability to adapt in your role. Answer the following questions in the appropriate submission form:
 
 1. What have you accomplished this week?
 1. What challenges did you run into?
-1. What new actions and or habits will you use to improve your work experience and quality?
+1. What new actions and/or habits will you use to improve your work experience and quality?
 1. What connections have you made? (i.e. participated in or established 1/1s with co-workers/your supervisor, made connections on LinkedIn, conversations around professional growth, etc.)
 1. Any ways your advisor can support or unblock you?
 
@@ -130,14 +134,10 @@ Write a 300+ word blog post on how to successfully intern at a company:
 
 ### Resume & LinkedIn update
 
-**DUE DATE: 1 week after your internship/job ends**
-
-Update your Linkedin & Resume with your new work experience and share these updates with your advisor.
-
 ## Evaluation
 In order to pass this course, students must successfully complete:
 
-- Talk monthly with an advisor - either via phone, video chat, or messages
+- Talk monthly with coach - either via phone, video chat, or messages
 - Meet 80% of the deliverables
 - Obtained contact info + made a LinkedIn connection with 3+ co-workers.
 - Score more than a 1.5 on the [Blog Post and Writing Rubric](https://docs.google.com/document/d/1T1oqHFoRo0kl7mPUTFupmsoEkLYltKsVgtqyGKDaCgY/edit)
