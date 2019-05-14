@@ -60,7 +60,6 @@ By the end of this internship, I will be able to …
 
 ## Assignments
 
-**IMPORTANT DUE DATE NOTE:** For the assignments due 1 week before your internship/job begins (Schedule Monthly Checkin, Reflectoin, Create Weekly Plan), if you obtain your internship/job with less than 1 weeks before the start date, then those three items are due before the internship begins
 
 ### Schedule Monthly Checkin
 
@@ -74,7 +73,7 @@ Schedule a monthly check-in call with your Make School coach
 
 Write a 300+ word summary about how you will work to succeed in the following:
 
-1. What challenges do you expect to face when joining the company?
+1. What challenges do you expect to face when joining the company? How will you work through these challenges?
 1. What are 2-3 competencies that you hope to develop on the job?
 1. What steps will you take to integrate into the team both technically and interpersonally?
 1. What questions do you hope to answer from this experience?
@@ -83,7 +82,7 @@ Write a 300+ word summary about how you will work to succeed in the following:
 
 **DUE DATE: 1 weeks before your internship/job begins**
 
-[Copy and fill out your plan](Assignments/weekly-plan.md), and then email it to Jeff (SWE Instructor) for review
+[Copy and fill out your plan](Assignments/weekly-plan.md), and then email it to Jeff (SWE Instructor) and your coach for review
 
 **DUE DATE: 1st week of your internship**
 
@@ -98,8 +97,8 @@ You will provide a reflection of your work experience to your coach. The purpose
 1. What have you accomplished this week?
 1. What challenges did you run into?
 1. What new actions and/or habits will you use to improve your work experience and quality?
-1. What connections have you made? (i.e. participated in or established 1/1s with co-workers/your supervisor, made connections on LinkedIn, conversations around professional growth, etc.)
-1. Any ways your advisor can support or unblock you?
+1. What connections have you made? (i.e. participated in or established 1/1s with co-workers/your supervisor, made connections at your employer, made connections on LinkedIn, conversations around professional growth, etc.)
+1. Any ways your coach can support or unblock you?
 
 **SUBMISSION FORMS**
 
