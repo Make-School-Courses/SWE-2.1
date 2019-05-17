@@ -60,7 +60,7 @@ By the end of this internship, I will be able to …
 
 ## Assignments
 
-Please update the tracker as you complete assignments [here] (https://docs.google.com/spreadsheets/d/1GP3jL5SWkyy2jp_Dm8c3QcOA47dwtwfPRrwpc5kAPRc/edit?usp=sharing)
+Please update [this tracker](https://docs.google.com/spreadsheets/d/1GP3jL5SWkyy2jp_Dm8c3QcOA47dwtwfPRrwpc5kAPRc/edit?usp=sharing) as you complete assignments 
 
 ### Schedule Monthly Checkin
 
