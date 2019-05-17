@@ -2,87 +2,45 @@
 
 What will you try to accomplish during each week of your work experience? Note that these goals will likely change once you get to the job.
 
-**Copy and fill this out and email to your advisor 1 month before your internship/job starts**
+**Copy and fill this out and email to your coach before your internship/job starts**
 
-## Week 1
+## Week 1-2
 
-During Week 1, I will aim to accomplish...
-
-1. Goal 1
-2. Goal 2
-
-## Week 2
-During Week 2, I will aim to accomplish...
+During Weeks 1-2, I will aim to accomplish...
 
 1. Goal 1
 2. Goal 2
 
-## Week 3
-
-During Week 3, I will aim to accomplish...
-
-1. Goal 1
-2. Goal 2
-
-## Week 4
-
-During Week 4, I will aim to accomplish...
+## Week 3-4
+During Weeks 3-4, I will aim to accomplish...
 
 1. Goal 1
 2. Goal 2
 
-## Week 5
+## Week 5-6
 
-During Week 5, I will aim to accomplish...
-
-1. Goal 1
-2. Goal 2
-
-## Week 6
-
-During Week 6, I will aim to accomplish...
+During Weeks 5-6, I will aim to accomplish...
 
 1. Goal 1
 2. Goal 2
 
-## Week 7
+## Week 7-8
 
-During Week 7, I will aim to accomplish...
-
-1. Goal 1
-2. Goal 2
-
-## Week 8
-
-During Week 8, I will aim to accomplish...
+During Weeks 7-8, I will aim to accomplish...
 
 1. Goal 1
 2. Goal 2
 
-## Week 9
+## Week 9-10
 
-During Week 9, I will aim to accomplish...
-
-1. Goal 1
-2. Goal 2
-
-## Week 10
-
-During Week 10, I will aim to accomplish...
+During Weeks 9-10, I will aim to accomplish...
 
 1. Goal 1
 2. Goal 2
 
-## Week 11
+## Week 11-12
 
-During Week 11, I will aim to accomplish...
-
-1. Goal 1
-2. Goal 2
-
-## Week 12
-
-During Week 12, I will aim to accomplish...
+During Weeks 11-12, I will aim to accomplish...
 
 1. Goal 1
 2. Goal 2
