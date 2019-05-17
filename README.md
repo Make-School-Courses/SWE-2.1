@@ -98,6 +98,7 @@ You will provide a reflection of your work experience to your coach. The purpose
 
 1. What have you accomplished this week?
 1. What challenges did you run into?
+1. How are you progressing toward your goals?
 1. What new actions and/or habits will you use to improve your work experience and quality?
 1. What connections have you made? (i.e. participated in or established 1/1s with co-workers/your supervisor, made connections at your employer, made connections on LinkedIn, conversations around professional growth, etc.)
 1. Any ways your coach can support or unblock you?
