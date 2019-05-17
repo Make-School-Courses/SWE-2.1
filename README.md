@@ -82,7 +82,7 @@ Write a 300+ word summary about how you will work to succeed in the following:
 
 **DUE DATE: 1 weeks before your internship/job begins**
 
-[Copy and fill out your plan](Assignments/weekly-plan.md), and then email it to Jeff (SWE Instructor) and your coach for review
+[Copy and fill out your plan](Assignments/weekly-plan.md), and then email it to Jeff (SWE Instructor - jeff@makeschool.com) and your coach for review
 
 ### Resume & LinkedIn update
 
