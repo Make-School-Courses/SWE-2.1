@@ -46,7 +46,7 @@ By the end of this internship, I will be able to …
 
 | Internship/Job Phase |          Timeframe          |      Assignments    |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  **Pre-Internship/Job** |  Before your internship/job begins  | Schedule a Monthly Check-In Call With Your Make School Advisor | Resume & LinkedIn update |
+|  **Pre-Internship/Job** |  Before your internship/job begins  | Schedule a Monthly Check-In Call With Your Make School Coach | Resume & LinkedIn update |
 |     |      |   Reflection |
 |     |      |   Create Weekly Plan |
 |  **During Internship/Job** |  1st Week  | Written Reflection Week 1 + Resume & LinkedIn update|
