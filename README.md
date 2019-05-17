@@ -6,7 +6,7 @@ The Supervised Work Experience (SWE) is a paid or unpaid internship or full time
 
 Students may begin registering for a SWE  once they have secured a full-time internship or full time job that lasts at least 12 weeks.
 
-Students work towards their SWE with their Make School coach, and once accepted into their position, continue to work with their coach (the same coach assigned to the academic school year). Before the SWE begins, students and their coach develop a personalized learning plan for the student to follow as they begin working. Students are in constant contact with their coach, and every two weeks, they are required to send a written update on their learning and learning plan. Students are managed and supervised at their workplace according to the policies of their employer. 
+Students work towards their SWE with their Make School coach, and once accepted into their position, continue to work with their coach (the same coach assigned to the academic school year). Students are in constant contact with their coach, and every two weeks, they are required to send a written update on their learning and learning plan. Students are managed and supervised at their workplace according to the policies of their employer. 
 
 Students must fill out the assignments listed in this syllabus, and execute their plan in order to get 10 college credit for this SWE.
 
