@@ -63,13 +63,13 @@ By the end of this internship, I will be able to …
 
 ### Schedule Monthly Checkin
 
-**DUE DATE: 1 week before your internship/job begins**
+**DUE DATE: Before your internship/job begins**
 
 Schedule a monthly check-in call with your Make School coach
 
 ### Reflection
 
-**DUE DATE: 1 week before your internship/job begins. Submit your reflection using [this form](https://forms.gle/9j6HYB8Gpt75a1Uz5)**
+**DUE DATE: Before your internship/job begins. Submit your reflection using [this form](https://forms.gle/9j6HYB8Gpt75a1Uz5)**
 
 Write a 300+ word summary about how you will work to succeed in the following:
 
@@ -80,7 +80,7 @@ Write a 300+ word summary about how you will work to succeed in the following:
 
 ### Create Weekly Plan
 
-**DUE DATE: 1 weeks before your internship/job begins**
+**DUE DATE: Before your internship/job begins**
 
 [Copy and fill out your plan](Assignments/weekly-plan.md), and then email it to Jeff (SWE Instructor - jeff@makeschool.com) and your coach for review
 
