@@ -1,6 +1,6 @@
 # Weekly Plan
 
-What will you try to accomplish during each week of your work experience? Note that these goals will likely change once you get to the job.
+What will you try to accomplish during each week of your work experience? Note that these goals will likely change once you get to the job (feel free to edit and make this a living document).
 
 **Copy and fill this out and email to your coach before your internship/job starts**
 
