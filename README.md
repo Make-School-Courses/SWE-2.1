@@ -49,14 +49,14 @@ By the end of this internship, I will be able to …
 |  **Pre-Internship/Job** |  1 week before your internship/job  | Schedule a Monthly Check-In Call With Your Make School Advisor. | Resume & LinkedIn update |
 |     |      |   Reflection |
 |     |      |   Create Weekly Plan |
-|  **During Internship/Job** |  1st Week  | Written Reflection Week 1 |
+|  **During Internship/Job** |  1st Week  | Written Reflection Week 1 + Resume & LinkedIn update|
 |  |  3rd week                        | Written Reflection Week 3 |
 |  |  5th week                        | Written Reflection Week 5 |
 |  |  7th week                        | Written Reflection Week 7 |
 |  |  9th week                        | Written Reflection Week 9 |
 |  **Post-Internship/Job** |  The last day of the internship/job    | Closing Items |
 |   |  1 week after Internship/Job ends    | Final Reflection Blog Post |
-|   |     | Resume & LinkedIn update |
+|   |    
 
 ## Assignments
 
