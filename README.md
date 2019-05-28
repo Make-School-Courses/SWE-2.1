@@ -15,7 +15,6 @@ Students must fill out the assignments listed in this syllabus, and execute thei
 Weeks to Completion: 12 <br>
 Total Out-of-Class Hours: 75 hours <br>
 Total Hours: 480 hours + work completion<br>
-Units: 3 units <br>
 Delivery Method: Job/Internship experience <br>
 Units: 10 units
 
