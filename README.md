@@ -117,7 +117,7 @@ You will provide a reflection of your work experience to your coach. The purpose
 1. [Written Reflection Week 5](https://docs.google.com/forms/d/e/1FAIpQLSfzb6FHiNkrZxnFF5MZr8hPcP80UghrifMmL_QwOGjxNeLPKA/viewform?usp=sf_link)
 1. [Written Reflection Week 7](https://docs.google.com/forms/d/e/1FAIpQLSd_WF4YtVKRM2AbdaCk85wc6sOTT6tQkI4wSlse8HVG6Ocevw/viewform?usp=sf_link)
 1. [Written Reflection Week 9](https://docs.google.com/forms/d/e/1FAIpQLSdNt8qoDK0nJpvVLjB4KKZ8XBQbebTwKBmfSrj0DmNboXr4kQ/viewform?usp=sf_link)
-1. [Additional Project Reflection] (only required if internship is less than 12 weeks - complete by 1 week after internship is complete](https://forms.gle/b1MLQZepKGHSH3Ft5)
+1. [Additional Project Reflection] (only required if internship is less than 12 weeks - complete by 1 week after internship is complete (https://forms.gle/b1MLQZepKGHSH3Ft5)
 
 ### Closing Items
 
