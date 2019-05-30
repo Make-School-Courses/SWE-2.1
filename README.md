@@ -54,7 +54,7 @@ By the end of this internship, I will be able to …
 |  |  7th week                        | Written Reflection Week 7 |
 |  |  9th week                        | Written Reflection Week 9 |
 |  **Post-Internship/Job** |  The last day of the internship/job    | Closing Items |
-|   |  1 week after Internship/Job ends    | Final Reflection Blog Post |
+|   |  1 week after Internship/Job ends    | Final Reflection Blog Post | Submit additional project and associated reflection (only required if your internship is less than 12 weeks)
 |   |    
 
 ## Assignments
@@ -84,6 +84,12 @@ Write a 300+ word summary about how you will work to succeed in the following:
 
 [Copy and fill out your plan](Assignments/weekly-plan.md), and then email it to Jeff (SWE Instructor - jeff@makeschool.com) and your coach for review
 
+### Additional Project Proposal if your internship is less than 12 weeks
+
+[Submit via this form](https://forms.gle/5CFYdf3mgAGnKVvH7)
+
+**DUE DATE: Before your internship/job begins**
+
 ### Resume & LinkedIn update
 
 **DUE DATE: 1st week of your internship**
@@ -110,6 +116,7 @@ You will provide a reflection of your work experience to your coach. The purpose
 1. [Written Reflection Week 5](https://docs.google.com/forms/d/e/1FAIpQLSfzb6FHiNkrZxnFF5MZr8hPcP80UghrifMmL_QwOGjxNeLPKA/viewform?usp=sf_link)
 1. [Written Reflection Week 7](https://docs.google.com/forms/d/e/1FAIpQLSd_WF4YtVKRM2AbdaCk85wc6sOTT6tQkI4wSlse8HVG6Ocevw/viewform?usp=sf_link)
 1. [Written Reflection Week 9](https://docs.google.com/forms/d/e/1FAIpQLSdNt8qoDK0nJpvVLjB4KKZ8XBQbebTwKBmfSrj0DmNboXr4kQ/viewform?usp=sf_link)
+[Additional Project Reflection (only required if internship is less than 12 weeks - complete by 1 week after internship is complete](https://forms.gle/b1MLQZepKGHSH3Ft5)
 
 ### Closing Items
 
