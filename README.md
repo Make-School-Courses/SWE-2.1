@@ -142,13 +142,14 @@ Write a 300+ word blog post on how to successfully intern at a company:
 1. What did you learn that you didn’t expect to on this job?
 1. Has this experience changed what you want to do in your career?
 
+[Blog Post and Writing Rubric](https://docs.google.com/document/d/1T1oqHFoRo0kl7mPUTFupmsoEkLYltKsVgtqyGKDaCgY/edit)
+
 ## Evaluation
 In order to pass this course, students must successfully complete:
 
 - Talk monthly with coach - either via phone, video chat, or messages
 - Meet 80% of the deliverables
 - Obtained contact info + made a LinkedIn connection with 3+ co-workers.
-- Score more than a 1.5 on the [Blog Post and Writing Rubric](https://docs.google.com/document/d/1T1oqHFoRo0kl7mPUTFupmsoEkLYltKsVgtqyGKDaCgY/edit)
 
 ## Make School Course Policies
 
