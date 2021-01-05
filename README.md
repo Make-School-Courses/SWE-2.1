@@ -12,17 +12,17 @@ Students must fill out the assignments listed in this syllabus, and execute thei
 
 ## Course Specifics
 
-Weeks to Completion: 12 <br>
-Total Out-of-Class Hours: 75 hours <br>
-Total Hours: 480 hours + work completion<br>
-Delivery Method: Job/Internship experience <br>
-Units: 10 units
+**Course Delivery**: hybrid | 12 weeks
+
+**Course Credits**: 12 units | 75 Seat Hours | 480 Total Hours + work completion
+
 
 
 ## Learning Outcomes
 
 ### SWE competencies
-By the end of this internship/job student will be able to …
+
+By the end of this internship/job, you will be able to …
 
 1. Integrate and contribute to a team at a professional engineering firm
 1. Reflect on work experience to mitigate problems and make the most of opportunities
@@ -59,97 +59,51 @@ By the end of this internship, I will be able to …
 
 ## Assignments
 
-Please update [this tracker](https://docs.google.com/spreadsheets/d/1GP3jL5SWkyy2jp_Dm8c3QcOA47dwtwfPRrwpc5kAPRc/edit?usp=sharing) as you complete assignments 
+### Submitting Assignments
 
-### Schedule Monthly Checkin
+We will be using [Gradescope](gradescope.com), which allows us to provide fast and accurate feedback on your work. *All assigned work will be submitted through Gradescope, and assignment and exam grades will be returned through Gradescope.*
 
-**DUE DATE: Before your internship/job begins**
+As soon as grades are posted, you will be notified immediately so that you can log in and see your feedback. You may also submit regrade requests if you feel we have made a mistake.
 
-Schedule a monthly check-in call with your Make School coach
+Your Gradescope login is your Make School email, and your password can be changed at [https://gradescope.com/reset_password](https://gradescope.com/reset_password). The same link can be used if you need to set your password for the first time.
 
-### Reflection
+### Assignment List
 
-**DUE DATE: Before your internship/job begins. Submit your reflection using [this form](https://forms.gle/9j6HYB8Gpt75a1Uz5)**
+#### DUE BEFORE YOUR INTERNSHIP/JOB BEGINS:
 
-Write a 300+ word summary about how you will work to succeed in the following:
+- **Schedule Monthly Checkin:** Schedule a monthly check-in call with your Make School coach
+- **[Reflection](./Assignments/reflection.md)**
+- **[Create Weekly Plan](./Assignments/weekly-plan.md)** - email it to the SWE Instructor - and your coach for review
 
-1. What challenges do you expect to face when joining the company? How will you work through these challenges?
-1. What are 2-3 competencies that you hope to develop on the job?
-1. What steps will you take to integrate into the team both technically and interpersonally?
-1. What questions do you hope to answer from this experience?
+##### if your internship is less than 12 weeks:
 
-### Create Weekly Plan
+**Submit an Additional Project Proposal [via this form](https://forms.gle/5CFYdf3mgAGnKVvH7)**
 
-**DUE DATE: Before your internship/job begins**
+#### DUE THE 1ST WEEK OF YOUR INTERNSHIP/JOB
 
-[Copy and fill out your plan](Assignments/weekly-plan.md), and then email it to Jeff (SWE Instructor - jeff@makeschool.com) and your coach for review
+- **Resume & LinkedIn update:** Update your Linkedin & Resume on the Make School portfolio page with your new work experience.
 
-### Additional Project Proposal if your internship is less than 12 weeks
+#### DUE DURING YOUR INTERNSHIP/JOB
 
-**DUE DATE: Before your internship/job begins**
+- **[Written Reflections](./Assignments/weekly_reflections.md):** Done twice a month for the first two months of your internship/job, and once during the third month**
 
-[Submit via this form](https://forms.gle/5CFYdf3mgAGnKVvH7)
+#### DUE AT THE END OF YOUR INTERNSHIP/JOB
 
-
-### Resume & LinkedIn update
-
-**DUE DATE: 1st week of your internship**
-
-Update your Linkedin & Resume on the Make School portfolio page with your new work experience.
-
-### Written Reflections
-
-**DUE DATES: Twice a month for the first two months of your internship/job, and once during the third month**
-
-You will provide a reflection of your work experience to your coach. The purpose is to accelerate your learning and ability to adapt in your role. Answer the following questions in the appropriate submission form:
-
-1. What have you accomplished this week?
-1. What challenges did you run into?
-1. How are you progressing toward your goals?
-1. What new actions and/or habits will you use to improve your work experience and quality?
-1. What connections have you made? (i.e. participated in or established 1/1s with co-workers/your supervisor, made connections at your employer, made connections on LinkedIn, conversations around professional growth, etc.)
-1. Any ways your coach can support or unblock you?
-
-**SUBMISSION FORMS**
-
-1. [Written Reflection Week 1](https://docs.google.com/forms/d/e/1FAIpQLSfIrGHhdhlHU1b0RGTKrGHENy2oUTigqRQAP7ts6Es1pFqyMw/viewform?usp=sf_link)
-1. [Written Reflection Week 3](https://docs.google.com/forms/d/e/1FAIpQLScb0YWYYt9UxsUYFSzHxj69O6cqsxmp6YB2_J07damSvPbeSQ/viewform?usp=sf_link)
-1. [Written Reflection Week 5](https://docs.google.com/forms/d/e/1FAIpQLSfzb6FHiNkrZxnFF5MZr8hPcP80UghrifMmL_QwOGjxNeLPKA/viewform?usp=sf_link)
-1. [Written Reflection Week 7](https://docs.google.com/forms/d/e/1FAIpQLSd_WF4YtVKRM2AbdaCk85wc6sOTT6tQkI4wSlse8HVG6Ocevw/viewform?usp=sf_link)
-1. [Written Reflection Week 9](https://docs.google.com/forms/d/e/1FAIpQLSdNt8qoDK0nJpvVLjB4KKZ8XBQbebTwKBmfSrj0DmNboXr4kQ/viewform?usp=sf_link)
-1. [Additional Project Reflection](https://forms.gle/b1MLQZepKGHSH3Ft5) (only required if internship is less than 12 weeks - complete by 1 week after internship is complete) 
-
-### Closing Items
-
-**DUE DATE: The last day of your internship/job**
-
-This was one of your first experiences with industry, and you’re going to want to make a good impression. **Best case could be you’re handed a full-time offer!** During the last few days of your internship, do the following to make a lasting impression:
-
-1. Verbally thank your supervisor and hiring manager for the opportunity, emphasizing how much you’ve learned and grown
-1. Email/Slack the company thanking everyone for the experience, provide forms of contact (email, LinkedIn, phone number, etc.)
-1. Collect business cards/contact info/LinkedIn connections if you haven’t already
-
-### Final Reflection Blog Post
-
-**DUE DATE: 1 week after your internship/job ends**
-
-**NOTE:** Blog post does not need to be published if your content contains sensitive or confidential information
-
-Write a 300+ word blog post on how to successfully intern at a company:
-
-1. What tips would you give your past self in starting this role?
-1. What does it take to successfully onboard to a company? Share some specific examples.
-1. What did you learn that you didn’t expect to on this job?
-1. Has this experience changed what you want to do in your career?
-
-[Blog Post and Writing Rubric](https://docs.google.com/document/d/1T1oqHFoRo0kl7mPUTFupmsoEkLYltKsVgtqyGKDaCgY/edit)
+**[Final Impressions](./Assignments/final_impressions.md):** Due the last day of your internship/job
+**[Final Reflection Blog Post](./Assignments/final_blog.md):** Due 1 week after your internship/job ends
 
 ## Evaluation
 In order to pass this course, students must successfully complete:
 
 - Talk monthly with coach - either via phone, video chat, or messages
-- Meet 80% of the deliverables
+- Meet 80% of the deliverables outlined in the Assignment List section above
 - Obtained contact info + made a LinkedIn connection with 3+ co-workers.
+
+##  Information Resources
+
+Any additional resources you may need (online books, etc.) can be found here. You can also find additional resources through the library linked below:
+
+- [make.sc/library](http://make.sc/library)
 
 ## Make School Course Policies
 
