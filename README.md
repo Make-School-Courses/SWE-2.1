@@ -1,4 +1,4 @@
-# Supervised Work Experience (SWE)
+# Supervised Work Experience (SWE 2.1)
 
 ## Course Description
 
