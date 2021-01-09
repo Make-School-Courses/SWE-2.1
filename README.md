@@ -4,7 +4,7 @@
 
 The Supervised Work Experience (SWE) is a paid or unpaid internship or full time work that happens either between or at the end of a student’s years in the Make School program. During Make School’s integrated program, students master the theory and practices necessary to succeed in making contributions as software engineers to the world of technology. The Make School program also prepares students to search for, apply, interview, and negotiate a job offer. 
 
-Students may begin registering for a SWE  once they have secured a full-time internship or full time job that lasts at least 12 weeks.
+Students may begin registering for a SWE once they have secured a full-time internship or full time job that lasts at least 12 weeks.  Request to register by filling out this form: [make.sc/swe-registration-form](http://make.sc/swe-registration-form)
 
 Students work towards their SWE with their Make School coach, and once accepted into their position, continue to work with their coach (the same coach assigned to the academic school year). Students are in constant contact with their coach, and every two weeks, they are required to send a written update on their learning and learning plan. Students are managed and supervised at their workplace according to the policies of their employer. 
 
@@ -12,7 +12,7 @@ Students must fill out the assignments listed in this syllabus, and execute thei
 
 ## Course Specifics
 
-**Course Delivery**: hybrid | 12 weeks
+**Course Delivery**: asynchronous | 12 weeks
 
 **Course Credits**: 12 units | 75 Seat Hours | 480 Total Hours + work completion
 
@@ -54,9 +54,10 @@ By the end of this internship, I will be able to …
 |  |  7th week                        | Written Reflection Week 7 |
 |  |  9th week                        | Written Reflection Week 9 |
 |  **Post-Internship/Job** |  The last day of the internship/job    | Closing Items |
-|   |  1 week after Internship/Job ends    | Final Reflection Blog Post | Submit additional project and associated reflection (only required if your internship is less than 12 weeks)
+|   |  1 week after Internship/Job ends    | Final Reflection Blog Post | Submit additional project and associated reflection (only required if your internship is less than 12 weeks
 |   |    
 
+**Students in SWE are working offsite and not expected to abide by the Make School attendance policy.**  
 ## Assignments
 
 ### Submitting Assignments
