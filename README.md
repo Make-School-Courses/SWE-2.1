@@ -62,6 +62,8 @@ By the end of this internship, I will be able to …
 
 ### Submitting Assignments
 
+**[Submit Assignments through Gradescope here](https://www.gradescope.com/courses/242589)**
+
 We will be using [Gradescope](gradescope.com), which allows us to provide fast and accurate feedback on your work. *All assigned work will be submitted through Gradescope, and assignment and exam grades will be returned through Gradescope.*
 
 As soon as grades are posted, you will be notified immediately so that you can log in and see your feedback. You may also submit regrade requests if you feel we have made a mistake.
