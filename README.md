@@ -14,7 +14,7 @@ Students must fill out the assignments listed in this syllabus, and execute thei
 
 **Course Delivery**: asynchronous | 12 weeks
 
-**Course Credits**: 12 units | 75 Seat Hours | 480 Total Hours + work completion
+**Course Credits**: 10 units | 75 Seat Hours | 480 Total Hours + work completion
 
 
 
